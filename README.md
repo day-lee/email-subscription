@@ -74,7 +74,7 @@ python manage.py runserver
 
 - **URL**
 
-    /subscription/search/?category=여행
+    /subscription/search/?category=IT
 
 - **Method:**
 
