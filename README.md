@@ -29,6 +29,9 @@ python manage.py runserver
 
 
 ```
++ 학습용 프로젝트로 sqlite3 DATABASE를 참고할 수 있도록 레포지토리에 추가해두었습니다. 
+
+
 ## 📌 Features
 
 ## Add Subscriber 구독 신청
