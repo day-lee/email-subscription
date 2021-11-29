@@ -18,7 +18,6 @@ if below line shows up, virtual environment has been successfully created
 pip install -r requirements.txt
 
 # Migrate Tables
-python manage.py makemigrations 
 python manage.py migrate
 
 # Create Admin Account
